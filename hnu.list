@@ -9,4 +9,5 @@ DOMAIN-SUFFIX,acs.org
 DOMAIN-SUFFIX,science.org
 DOMAIN-SUFFIX,rsc.org
 DOMAIN-SUFFIX,webofknowledge.com
+DOMAIN-SUFFIX,elsevier.com
 IP-CIDR,192.168.1.0/24,no-resolve
