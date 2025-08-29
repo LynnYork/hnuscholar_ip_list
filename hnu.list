@@ -1,0 +1,12 @@
+# 海大
+DOMAIN-SUFFIX,hainanu.edu.cn
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,carsi.edu.cn
+DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,nature.com
+DOMAIN-SUFFIX,wiley.com
+DOMAIN-SUFFIX,acs.org
+DOMAIN-SUFFIX,science.org
+DOMAIN-SUFFIX,rsc.org
+DOMAIN-SUFFIX,webofknowledge.com
+IP-CIDR,192.168.1.0/24,no-resolve
